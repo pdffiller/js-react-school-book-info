@@ -1,0 +1,77 @@
+{
+  "kind": "books#volume",
+  "id": "Ly0UAgAAQBAJ",
+  "etag": "akWbHpvFyNA",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/Ly0UAgAAQBAJ",
+  "volumeInfo": {
+    "title": "Happy",
+    "authors": [
+      "Marla Braziel"
+    ],
+    "publisher": "Marla Braziel",
+    "publishedDate": "2013-11-13",
+    "description": "\u003cp\u003eImagine being born in captivity with a crippling disability. Your life \nis in the hands of alien creatures that provide sustenance and \naffection. How much does your happiness mean?\u003cbr\u003e\u003cbr\u003e***WARNING*** Despite the title, this is a very sad story. Do not read if you do not want to cry.\u003cbr\u003e\u003cbr\u003eThis\n short story was written to bring awareness and inspiration. You can \nsupport this work by donating to your local no kill shelter. \n                \u003c/p\u003e\u003cp\u003ekeywords, cats, kittens, animal shelters, inspirational story, pet stories, euthanasia, free short story, free ebook, free book, free\u003cbr\u003e\u003c/p\u003e",
+    "readingModes": {
+      "text": false,
+      "image": true
+    },
+    "pageCount": 11,
+    "printedPageCount": 11,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Short Stories (single author)",
+      "Pets / Cats / General",
+      "Pets / General"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=Ly0UAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71fjkiIU5dxs32-8KfcAsTmXojxTmH_JyMVKphogeWya1NTiwdelTyb-onDB0owB_zarGHteW9QFb_kw2k3RvS8uaxWVoXIF9n10btrrSbttfaukppcv_tsAMzZ1OqHdIEtBsbZ&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=Ly0UAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71XLkpkbKFOQhq6bhaIaC0aesSaSMp3yMGiGWXblwlos_ZvOSHqFXC716BvbNf-ltMU1N4-iuXwUyLvZ2N65g3MP1K7xIAe9qlUxKUntCNuORwYzA2-OPwb4C5F9jlpWhaOmc5C&source=gbs_api",
+      "small": "http://books.google.com/books/content?id=Ly0UAgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73jWDh8vQexkmzZjLFzwqXs6sPD9qjrERxPZHvxE5HAJUPTlCjoY3syihX0w7uJZdm2zOSbivgIT0lXddN0O5dF-7ExlrBpj1YxmQkNfW_QZrO6hKW-jKlIuE4iV8tjYMs64A2E&source=gbs_api",
+      "medium": "http://books.google.com/books/content?id=Ly0UAgAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70Ov5Y7laYNJHOa31IxjDKb2gDBK_uEGVrs-pnolll_qLZ-0Ult1b7Mq7O7iD7JwQpdP61KuUUakGuW-8Erl_WRg6q_HF5xh0ATHdgb8UoSeHVGIxNKXQftdO8TYkkGWup8Iepj&source=gbs_api",
+      "large": "http://books.google.com/books/content?id=Ly0UAgAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE726YhT9SA2TxPQR7szSIwtXWTxKMwvZ5oIS1_3ZG8UAI6pF4vrqm0BFMaWky9HBFHmxPCUozTyi_Ko8UoswkCyfknspKpvuyiOSbIBzXgkxQ4efjGFeBMRzDca-E7LiOkRF_Pv7&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/content?id=Ly0UAgAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72LgBbr_rWgQFlzXxwusaVmiC2wE33hGGdIX1zuUrpx1kZFSfTSPkbZKKcqa_2BCoQ4Sjn1oSQDtDaRBE3fExyK9pa1So7j0BX7-mdFZm3xkAWxoU5wy_MNgqnCv6r4BfXvnCbh&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.ua/books?id=Ly0UAgAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ly0UAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ly0UAgAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "UA",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 0.0,
+      "currencyCode": "UAH"
+    },
+    "retailPrice": {
+      "amount": 0.0,
+      "currencyCode": "UAH"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ly0UAgAAQBAJ&rdid=book-Ly0UAgAAQBAJ&rdot=1&source=gbs_api"
+  },
+  "accessInfo": {
+    "country": "UA",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com.ua/books/download/Happy-sample-pdf.acsm?id=Ly0UAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ly0UAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

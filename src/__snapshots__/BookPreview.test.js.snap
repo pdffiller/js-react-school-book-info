@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookPreview should be rendered without errors with a old book info 1`] = `
+<div
+  className="book-preview"
+>
+  <div
+    className="book-preview--book_title"
+  >
+    Двенадцать стульев
+  </div>
+  <div
+    className="book-preview--book_year"
+  >
+    1960
+     
+    old
+  </div>
+</div>
+`;
+
+exports[`BookPreview should be rendered without errors with a valid book info 1`] = `
+<div
+  className="book-preview"
+>
+  <img
+    alt="Happy"
+    src="http://books.google.com/books/content?id=Ly0UAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71XLkpkbKFOQhq6bhaIaC0aesSaSMp3yMGiGWXblwlos_ZvOSHqFXC716BvbNf-ltMU1N4-iuXwUyLvZ2N65g3MP1K7xIAe9qlUxKUntCNuORwYzA2-OPwb4C5F9jlpWhaOmc5C&source=gbs_api"
+  />
+  <div
+    className="book-preview--book_title"
+  >
+    Happy
+  </div>
+  <div
+    className="book-preview--book_author"
+  >
+    Marla Braziel
+  </div>
+  <div
+    className="book-preview--book_year"
+  >
+    2013
+     
+    new
+  </div>
+</div>
+`;
+
+exports[`BookPreview should be rendered without errors without props 1`] = `
+<div
+  className="book-preview"
+>
+  <div
+    className="book-preview--book_title"
+  />
+  <div
+    className="book-preview--book_year"
+  >
+     
+    new
+  </div>
+</div>
+`;

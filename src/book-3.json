@@ -1,0 +1,50 @@
+{
+  "kind": "books#volume",
+  "id": "UOf3tgAACAAJ",
+  "etag": "xqpPd5nfEpA",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/UOf3tgAACAAJ",
+  "volumeInfo": {
+    "title": "Двенадцать стульев",
+    "subtitle": "пьеса в 3-х действиях",
+    "publisher": "Тип. но. 1 Госплана СССР",
+    "publishedDate": "1960",
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 4,
+    "printedPageCount": 4,
+    "dimensions": {
+      "height": "23.00 cm"
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "ru",
+    "previewLink": "http://books.google.com.ua/books?id=UOf3tgAACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=UOf3tgAACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-UOf3tgAACAAJ"
+  },
+  "saleInfo": {
+    "country": "UA",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "UA",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UOf3tgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

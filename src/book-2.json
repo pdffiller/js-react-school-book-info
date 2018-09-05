@@ -1,0 +1,109 @@
+{
+  "kind": "books#volume",
+  "id": "wHA3DwAAQBAJ",
+  "etag": "E+9a7ZG0aGQ",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/wHA3DwAAQBAJ",
+  "volumeInfo": {
+    "title": "Двенадцать стульев. Полная версия романа.",
+    "authors": [
+      "Илья Ильф",
+      "Евгений Петров"
+    ],
+    "publisher": "Litres",
+    "publishedDate": "2017-10-11",
+    "description": "И. Ильф и Е. Петров завершили роман «Двенадцать стульев» в 1928 году, но еще до первой публикации цензоры изрядно сократили, «почистили» его. Правка продолжалась от издания к изданию еще десять лет. В итоге книга уменьшилась почти на треть. Публикуемый ныне вариант – первый полный – реконструирован по архивным материалам. Книга снабжена обширным историко-литературным и реальным комментарием.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "504081979X"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9785040819799"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 1216,
+    "printedPageCount": 1216,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / General",
+      "Literary Collections / General"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=wHA3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70ko0gRgOsyal7UhvGw556dR18O8uQIGgRgkwtQLYb-LXqjzig_8FeH9ejG4c1dXjEkEEJl4BD1kMh9NzKJBalHg_lsu50j9nHrxXpIVhaqJtyZtWIC4gVD7svt2blknrKVbcdF&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=wHA3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72ESY8xc4xMNo_aN30I1hxQr0AdmDtIpCQL9A4aq3IoQ9jqiMHDBVUkcBVrGtTA1d1K3IWP94WdXoqBWKAnPVkqKGbCDaU0NiUVGCvEFWEwPK77x2Mk3KiV5avmGLqtaER3H7jY&source=gbs_api",
+      "small": "http://books.google.com/books/content?id=wHA3DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE7018lE-uD5UDh5Ut8hZMYphK9J6sL4a0W4kmUefqLNaRYOBJbra_MPBCkd_8-8LcgysdO2zruFvvKl7H-9eiEtbm5E8FZJVMpW3qm_vUZjoGFuOvxbDK1EC1R6NnxbOPXHpPjVF&source=gbs_api",
+      "medium": "http://books.google.com/books/content?id=wHA3DwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71CHF6BEzJLvtbhlFxjmJooY8FMZxiI6Nq-6VnFKmvwyuefY93e8b1W9k8ODZc6ZpVecWZajBwEYsr3qGUa1gWAzd2fa73LQjbSYvMziLTsoo4uF12dJ91XrT7IET_34pE_lLqT&source=gbs_api",
+      "large": "http://books.google.com/books/content?id=wHA3DwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73GI0DGsG22TE53d08pnwjy-4DfbOqYrhjWUo1uW34MiO_xxJHuAU3tn0A2G7oaHtincxN8DtlXhMua90wtfgqVyKJN_B-Ap3iIFDA2z8fcbHGtTbeJXvEvP3rDfGg9e0Uq3-z3&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/content?id=wHA3DwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70q3t4e8ymFuvYEuOy8znB_KfsblHax9M3Z8PlPYqjva_LqYF_oV375pgcOMqnZ1ktT3xxT1Pt7hKJFbONLEFgt1j1gr5-Nq8oweApovrTtVu8XkWDnvovB1qERoBEHw-au2T7u&source=gbs_api"
+    },
+    "language": "ru",
+    "previewLink": "http://books.google.com.ua/books?id=wHA3DwAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=wHA3DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-wHA3DwAAQBAJ"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "6"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "UA",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 117.31,
+      "currencyCode": "UAH"
+    },
+    "retailPrice": {
+      "amount": 79.77,
+      "currencyCode": "UAH"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=wHA3DwAAQBAJ&rdid=book-wHA3DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 1.1731E8,
+          "currencyCode": "UAH"
+        },
+        "retailPrice": {
+          "amountInMicros": 7.977E7,
+          "currencyCode": "UAH"
+        }
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "UA",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com.ua/books/download/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D1%81%D1%82%D1%83%D0%BB%D1%8C%D0%B5%D0%B2_%D0%9F%D0%BE-sample-epub.acsm?id=wHA3DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com.ua/books/download/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D1%81%D1%82%D1%83%D0%BB%D1%8C%D0%B5%D0%B2_%D0%9F%D0%BE-sample-pdf.acsm?id=wHA3DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wHA3DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

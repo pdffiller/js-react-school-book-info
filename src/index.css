@@ -1,0 +1,35 @@
+body {
+  margin: 20px;
+  background: #ccc;
+}
+
+.content {
+  padding: 10px;
+}
+
+.book-preview {
+  border: solid 1px black;
+  padding: 5px;
+  width: 250px;
+  background: white;
+  float: left;
+  margin-left: 5px;
+}
+
+.book-preview img {
+  width: calc(100% + 10px);
+  margin: -5px;
+}
+
+.book-preview--book_title {
+  font-size: 18pt;
+  font-weight: bold;
+}
+
+.book-preview--book_author {
+  font-size: 14pt;
+}
+
+.book-preview--book_year {
+  font-size: 14pt;
+}
