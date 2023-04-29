@@ -56,7 +56,7 @@
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "babel-preset-react-app": "^7.0.0",
-    "parcel-bundler": "^1.11.0",
+    "parcel-bundler": "^1.12.5",
     "react-test-renderer": "^16.4.2"
   }
 }
